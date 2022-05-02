@@ -1,5 +1,5 @@
 ### Hi, I'm Chris 👋
 
-#### Web Developer Full Stack
+#### Web Developer Front-end Javascript (Saas / On-promise)
 
- 🔭 I’m currently working on : weneedIT project
+ 🔭 Stack : Angular / VueJS / SASS / Rails
