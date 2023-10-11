@@ -1,5 +1,4 @@
 ### Hi, I'm Chris 👋
 
-#### Web Developer Front-end Javascript (Saas / On-premise)
+#### Web Designer UX/UI | Product Designer | Web Developer Front-end Javascript (Saas / On-premise)
 
- 🔭 Stack : Angular / VueJS / SASS / Rails
